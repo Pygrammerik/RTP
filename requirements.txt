@@ -1,0 +1,11 @@
+PyQt6>=6.6.1
+numpy>=1.26.0
+opencv-python-headless>=4.9.0
+pygame>=2.5.2
+ffmpeg-python>=0.2.0
+sounddevice>=0.4.6
+soundfile>=0.12.1
+pillow>=10.2.0
+pyautogui>=0.9.54
+pygetwindow>=0.0.9
+pywin32>=306 
